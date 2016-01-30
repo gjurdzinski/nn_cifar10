@@ -1,2 +1,5 @@
-# nn_cifar10
-Project for neural networks
+# Project for neural networks
+See wiki for details.
+
+Grzegorz Jurdziński
+2016, II UWr
